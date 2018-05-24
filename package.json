@@ -5,6 +5,11 @@
   "repository": "https://github.com/izaika/nextjs.git",
   "author": "Igor Zaika <zaika.igor@pdffiller.team>",
   "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
   "dependencies": {
     "next": "^6.0.3",
     "react": "^16.4.0",
