@@ -6,7 +6,7 @@ const errorPage = () => (
   <div>
     <h1>Oops something went wrong</h1>
     <p>
-      Try
+      Try{' '}
       <Link href="/">
         <a>going back</a>
       </Link>
