@@ -1,0 +1,13 @@
+{
+  "name": "nextjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/izaika/nextjs.git",
+  "author": "Igor Zaika <zaika.igor@pdffiller.team>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^6.0.3",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0"
+  }
+}
